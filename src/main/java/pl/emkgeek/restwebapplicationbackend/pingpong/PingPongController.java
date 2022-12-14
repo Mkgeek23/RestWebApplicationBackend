@@ -1,4 +1,4 @@
-package pl.emkgeek.restwebapplicationbackend.PingPong;
+package pl.emkgeek.restwebapplicationbackend.pingpong;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
